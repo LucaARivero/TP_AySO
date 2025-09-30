@@ -1,0 +1,1 @@
+history -a append $home/.bash_history

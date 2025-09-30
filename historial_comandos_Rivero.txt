@@ -1,0 +1,155 @@
+hola
+git help
+FUNCIONOO
+cat
+cat readme1
+cat
+cat readme1
+bc <<< 2+2
+cat <<< hoolaaa > readme1
+cat<<<readme1
+cat <<< hola > readme1
+no
+help
+more  <<< hola > readme1
+cat hola
+cat Hola
+more hola
+more > hola
+more --help
+cat --help
+cat <<< hola > readme1-txt
+cat  > readme1-txt
+config
+config.vm.hostname
+vagrant reload
+vagrant
+apt install vagrant
+yes
+cat -- help
+git clone git@github.com:LucaARivero/TP_AySO.git
+Please make sure you have the correct access rights
+cd
+ssh
+git clone git@github.com:LucaARivero/TP_AySO.git
+cd .ssh
+ls -la
+cd
+ssh --keygen
+ssh-keygen
+cd .ssh
+ls -la
+cat id_rsa.pub
+cd
+sudo apt install git
+git --versiob
+git --version
+git clone git@github.com:LucaARivero/TP_AySO.git
+cd repogit
+git clone git@github.com:LucaARivero/TP_AySO.git
+cd TP_AySO/
+pwd
+mtab
+cat/etc/mtab
+cat mtab
+ls -l
+/etc
+cat /etc/mtab
+man grep
+grep SYSFS /etc/mtab
+grep
+grep sysfs
+grep sysft /etc/mtab
+grep sysfs /etc/mtab
+grep home_url/etc/os-release
+grep home_url
+man grep
+grep -i SYSFS /etc/mtab
+grep -i home_url/os-release
+grep
+grep -i /etc/mtab
+grep -i Sysfs /etc/mtab
+grep -i sysfs /etc/mtab>datos_sys.txt
+grep -I sysfs /etc/mtab > datos_sys.txt
+whoami
+echo
+-un
+id -un
+echo "usuario=$whoami
+da
+
+dadawas
+
+echo Luca=$vagrant > datos_usuario.txt
+git add
+git add .
+git config --global user.email riverolucaagusting@gmail.com
+git config --global user.name LucaARivero
+git commit-m ADD: agregado 1er ejercicio sobre datos_usuarios,txt
+git commit-m "add: agregado el 1er ejercicio sobre datos_usuarios.txt"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep
+grep passwd
+grep datos_usuario
+awk
+awk -f
+print
+{print$1]
+{print$1}
+‘{print$1}’
+grep
+grep awk -f
+awk
+awk -f
+grep
+grep nombre usuario
+grek datos_usuario
+grep datos_usuario
+cat etc/passwd
+cat
+cat /etc/passwd
+n1 /etc/passwd
+less /etc/passwd
+grep "^$(whoami):" /etc/passwd
+cat datos_usuario
+grep vagrant /etc/passwd | awk-f:'{print $5, $6}'>> datos_usuario.txt
+echo “Usuario=$(whoami)” > datos_usuario.txt
+echo “Usuario=luca” > datos_usuario.txt
+grep "^$(whoami):" /etc/passwd
+echo “Luca=$(whoami)” > datos_usuario.txt
+grep "^$(whoami):" /etc/passwd
+grep vagrant /etc/passwd | awk-f:'{print $5
+ , $6}'>> datos_usuario.txt
+grep vagrant /etc/passwd | awk -f:'{print $5, $6}' >> datos_usuario.txt
+cat <<EOF > readme.md
+Alumno:luca agustin rivero
+Division:115
+Turno:turno mañana
+
+cat <<EOF > readme.md
+Alumno:Luca Agustin Rivero
+Division:115
+Turno:Turno mañana
+EOF
+
+git add readme.md datos_usuario.txt
+git commit -m "add: añadiendo Readme y datos de usuario"
+git push
+mkdir -p ~/tp1/arquitercutra/clase {1..5} ~/TP1/so/clase{1..6}
+script_dir.sh
+cat <<EOF > script_dir.sh
+#!/bin/bash
+# Script para crear estructura de directorios TP1
+mkdir -p ~/TP1/arquitectura/Clase{1..5} ~/TP1/so/Clase{1..6}
+EOF
+
+git add .
+git commit -m "add:añadiendo script"
+git push
+history-a
+history -a
+$home/.bash_history
+history -a
